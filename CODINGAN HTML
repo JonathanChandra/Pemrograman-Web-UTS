@@ -1,0 +1,77 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psikologic</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href= ''>NEUROFLOW</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#Home">Home</a></li>
+                    <li><a href="#About Us">About Us</a></li>
+                    <li><a href="#Blog">Blog</a></li>
+                    <li><a href=""class="tbl-biru">Sign Up</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper"></div>
+    <!--untuk home-->
+        <section id="home">
+            <img src="https://img.freepik.com/free-vector/people-connecting-jigsaw-pieces-head-together_53876-59847.jpg?t=st=1729216744~exp=1729220344~hmac=5aede877691d4e0fa16c8cbb8dd1dde5aeb2bd572eb7db0ce3cf3c51f05b57c9&w=826"/>
+            <div class="kolom">
+                <p class="deskripsi">Welcome to Our Website!</p>
+                <h2>We provide professional psychological services </h2>
+                <p>Helping partners build stronger, healthier relationships.</p>
+                <p><a href="" class="tbl-pink">Pelajari lebih lanjut</a></p>
+            </div>
+        </section>
+
+        <!--untuk about us-->
+        <section id="About Us">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">About Us</p>
+                    <h2>Our Mission</h2>
+                    <p>At NEUROFLOW, our mission is to provide compassionate and effective psychological care. We believe that mental health is just as important as physical health, and our goal is to help individuals navigate life’s challenges with resilience and confidence</p>
+                    <p><a href="" class="tbl-biru">Pelajari lebih lanjut</a></p>
+                </div>
+
+                <div class="our-team">
+                    <div class="kartu-team">
+                        <img src="https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg&ga=GA1.1.967060102.1729296000&semt=ais_hybrid"/>
+                        <p>name 1</p>
+                    </div>
+                    <div class="kartu-team">
+                        <img src="https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg&ga=GA1.1.967060102.1729296000&semt=ais_hybrid"/>
+                        <p>name 2</p>
+                    </div>
+                    <div class="kartu-team">
+                        <img src="https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg&ga=GA1.1.967060102.1729296000&semt=ais_hybrid"/>
+                        <p>name 3</p>
+                    </div>
+            </div>
+
+        </section>
+
+        <!--untuk Blog-->
+        <section id="Blog">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Articles</p>
+                    <h2>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab expedita architecto id accusamus minus esse alias quidem neque harum reprehenderit. Voluptatibus corporis atque illo voluptatem totam commodi molestiae. Porro, accusantium?</h2>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa provident saepe doloremque fugiat numquam minus voluptatum alias exercitationem, modi iste a quisquam natus laboriosam nihil necessitatibus ex aliquam? Labore, voluptatibus!</p>
+                </div>
+            </div>
+        </section>
+
+
+
+  
+</body>
+</html>
