@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UTS ANJIR</title>
+    <title>UTS PEMWEB</title>
     <link rel="stylesheet" href="Blog.css">
 </head>
 <body>
@@ -104,10 +104,12 @@
     function scrollToTop() {
         window.scrollTo({ top: 0, behavior: 'smooth' }); // Scroll ke atas dengan efek halus
     }
+
+    <!--Javascipt-->
 </script>
     <div class="footer">
-            <p>&copy; kelompok berapa anjir 2023C</p>
-        <p>Contact us: <a href="mailto:contact@kelompokberapanjir.com">contact@kelompokberapa.com</a></p>
+            <p>&copy; Kelompok 2 2023C</p>
+        <p>Contact us: <a href="mailto:contact@kelompokberapanjir.com">contact@kelompok2.com</a></p>
     </div>
 <button onclick="scrollToTop()">Scroll Atas</button>
 </body>
