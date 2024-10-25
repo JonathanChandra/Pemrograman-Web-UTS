@@ -15,17 +15,9 @@
             <li><a href="Blog.html">Blog</a></li>
         </ul>
     </div>
-
-    <div class="content">
     
         <div class="content">
             <center>><h1 center>Mental Health</h1></center>
-        </div>
- 
-        <div class="scroll-container">
-            <img src="assets/mental2 (1).jpeg" alt="mental health">
-            <img src="assets/mental3.jpeg" alt="mental health">
-            <img src="assets/Therapy _3.jpeg" alt="">
         </div>
 
     <div class="konten">
@@ -36,8 +28,9 @@
         <li>Cara Menjaga Kesehatan Mental</li>
         </ol>
     </div>
-    <h2>Pengertian Mental Health</h2>
+
 <div class="artikel"> 
+    <h2>Pengertian Mental Health</h2>
     <div class="pendahuluan">
             <p>
                 Kesehatan mental atau yang juga dikenal dengan mental health adalah kondisi kesehatan yang berkaitan dengan aspek kejiwaan, psikis, dan emosional seseorang. Mental health mencerminkan keadaan kesehatan mental seseorang, termasuk tingkat keseimbangan emosional, kemampuan mengatasi tekanan, dan kualitas hubungan interpersonal.<br/>
@@ -107,10 +100,15 @@
         <p>Gangguan kesehatan mental perlu segera ditangani dengan tenaga medis profesional guna menghindari terjadinya penurunan kualitas hidup. Kesehatan mental penting agar kita dapat menjalani kehidupan sehari hari dengan semestinya tanpa adanya pikiran yang mengganggu dan yang berdampak langsung pada tubuh kita. </p>
     </div>
 </div>
-<div class="footer">
-    <p>&copy; kelompok berapa anjir 2023C</p>
-    <p>Contact us: <a href="mailto:contact@kelompokberapanjir.com">contact@kelompokberapa.com</a></p>
-</div>
-
+<script>
+    function scrollToTop() {
+        window.scrollTo({ top: 0, behavior: 'smooth' }); // Scroll ke atas dengan efek halus
+    }
+</script>
+    <div class="footer">
+            <p>&copy; kelompok berapa anjir 2023C</p>
+        <p>Contact us: <a href="mailto:contact@kelompokberapanjir.com">contact@kelompokberapa.com</a></p>
+    </div>
+<button onclick="scrollToTop()">Scroll Atas</button>
 </body>
 </html>
