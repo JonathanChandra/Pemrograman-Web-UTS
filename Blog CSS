@@ -3,25 +3,13 @@ h1{
     text-shadow: 2px 2px 4px #000000;
 }
 
-div.scroll-container {
-    background-color: #333;
-    overflow: auto;
-    white-space: nowrap;
-    padding: 10px;
-  }
-  
-  div.scroll-container img {
-    padding: 10px;
-  }
-
-.img{
-    width: 50%;
-    height: auto;
-  }
-
 body { 
     background: #BCF2F6; 
   }
+
+.artikel {
+    padding-left: 100px;
+}
 .navbar {
     background-color: #333;
     overflow: hidden;
@@ -132,5 +120,3 @@ body {
 .contoh {
     margin-bottom: 10px;
 }
-
-
